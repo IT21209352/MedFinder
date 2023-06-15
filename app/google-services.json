@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458774375766",
+    "project_id": "medfinder-aa2fc",
+    "storage_bucket": "medfinder-aa2fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458774375766:android:5ae5b24303919cd520faf7",
+        "android_client_info": {
+          "package_name": "com.example.medfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458774375766-sunfb4ib40upamre5gbjf6vj4cqiqe0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL4rRmdBYrycTdtlxs0OnVqx7CzSiAYYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458774375766-sunfb4ib40upamre5gbjf6vj4cqiqe0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

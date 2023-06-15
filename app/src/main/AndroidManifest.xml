@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MedFinder"
+        tools:targetApi="31">
+        <activity
+            android:name=".phamacychat"
+            android:exported="false" />
+        <activity
+            android:name=".approve"
+            android:exported="false" />
+        <activity
+            android:name=".findinventry"
+            android:exported="false" />
+        <activity
+            android:name=".deletemed"
+            android:exported="false" />
+        <activity
+            android:name=".popup"
+            android:exported="false" />
+        <activity
+            android:name=".chatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Advertisments"
+            android:exported="false">
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name=".Advertisment_add"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.HomeFragment"
+            android:exported="false" />
+        <activity
+            android:name=".pha_chat_to_customer"
+            android:exported="false" />
+        <activity
+            android:name=".cus_drugs"
+            android:exported="false" />
+        <!--
+  <activity
+            android:name=".DrugReqs"
+            android:exported="false" />
+        -->
+        <activity
+            android:name=".AddDrugInventory"
+            android:exported="false" />
+        <activity
+            android:name=".pha_myaccount"
+            android:exported="false" />
+        <activity
+            android:name=".DrugInventory"
+            android:exported="false" />
+        <activity
+            android:name=".pharmacy_home"
+            android:exported="false" />
+        <activity
+            android:name=".home"
+            android:exported="false"
+            android:label="@string/title_activity_home" />
+        <activity
+            android:name=".Login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DeleteAccount"
+            android:exported="false" />
+        <activity
+            android:name=".change_pw"
+            android:exported="false" />
+        <activity
+            android:name=".cus_myaccount"
+            android:exported="false" />
+        <activity
+            android:name=".phamacy_register"
+            android:exported="false" />
+        <activity
+            android:name=".signups"
+            android:exported="false" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">MedFinder</string>
+
+    <!-- customer register-->
+    <string name="customer_register">Customer Registration</string>
+    <string name="cus_reg_Fname">First Name</string>
+    <string name="cus_reg_Eamil">Email</string>
+    <string name="cus_reg_Phone">Phone </string>
+    <string name="cus_reg_adress">Address</string>
+    <string name="cus_reg_pw">Password</string>
+    <string name="cus_reg_cnfrm_pw">Confirm Password </string>
+    <string name="cus_reg_signup">SIGN UP</string>
+    <string name="cus_reg_pha">SIGN UP AS PHARMACY</string>
+
+    <!-- pharmacy register-->
+    <string name="pharmacy_register">Pharmacy Registration</string>
+    <string name="pha_reg_name">Pharamacy Name</string>
+    <string name="pha_reg_no">Pharamacy Registration No</string>
+    <string name="pha_reg_email">Email</string>
+    <string name="pha_reg_Phone">Phone</string>
+    <string name="pha_reg_Destination">Pharamacy Destination</string>
+    <string name="pha_reg_pw">Password</string>
+    <string name="pha_reg_cnfrm_pw">Confirm Password </string>
+    <string name="pha_reg_signup">SIGN UP</string>
+
+    <!--My account-->
+    <string name="acc_head">My Account</string>
+    <string name="acc_fname">First Name</string>
+    <string name="acc_Email">Email</string>
+    <string name="acc_Phone">Phone </string>
+    <string name="acc_address">Address</string>
+    <string name="acc_image">Image</string>
+    <string name="acc_image_hnt">Click on Image button to add a photo</string>
+    <string name="acc_edit">EDIT</string>
+    <string name="acc_delete">DELETE ACCOUNT</string>
+    <string name="acc_cng_pw">CHANGE PASSWORD</string>
+
+    <!--change password-->
+    <string name="change_pw_head">Change Password</string>
+    <string name="change_pw_cur_pw">Current Password</string>
+    <string name="change_pw_edt_cur_pw">Current Password</string>
+    <string name="change_pw_new_pw">New Password</string>
+    <string name="change_pw_edt_new_pw">New Password</string>
+    <string name="change_pw_reenter_new_pw">Re Enter Password</string>
+    <string name="change_pw_edt_reenter_new_pw">Re Enter Password</string>
+    <string name="change_pw_btn_update_new_pw">Update New Password</string>
+
+    <!--Delete account-->
+    <string name="del_acc_head">Delete Account</string>
+    <string name="del_acc_desc">Do you want to Delete Your Account Permanently ?</string>
+    <string name="del_btn">Delete</string>
+
+    <!-- back to login page-->
+    <string name="bck_cus_login_pg">back to login</string>
+
+    <!--login page-->
+    <string name="login_pg_head">LOGIN</string>
+    <string name="login_log_btn">LOGIN</string>
+    <string name="login_singup_btn">SIGNUP</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_account">Account</string>
+
+    <!--adv page-->
+    <string name="adv_main_page">Advertisement</string>
+    <string name="adv_add_page">Advertisement Add</string>
+
+    <!--add adv-->
+    <string name="add_advertisment_head">Add Advertisement</string>
+    <string name="adv_id">Advertisement ID</string>
+    <string name="add_advertisment">Add advertisement</string>
+
+
+    <!--home-->
+    <string name="title">MedFinder</string>
+    <string name="title1">Find your nearest medical center</string>
+    <string name="getname">Enter Drug Name</string>
+    <string name="prescription">add the  prescription</string>
+    <string name="add">ADD</string>
+    <string name="find">find your medicine</string>
+    <string name="title3">Find your nearest drug dealer</string>
+    <string name="filter">Filters</string>
+    <string name="name">Drug name</string>
+    <string name="saller">Seller</string>
+    <string name="city">City</string>
+    <string name="faplyfilter">Apply filters</string>
+    <string name="description">Description</string>
+
+    <!--search-->
+    <string name="findpharmacyhead">Find Pharmacy</string>
+    <string name="findpharmacy">Find pharmacy</string>
+    <string name="findDrgnme">Drug name</string>
+    <string name="findcity">City</string>
+
+    <!--pharmacy list for customers-->
+    <string name="pharmacylist">Pharmacy list</string>
+
+    <!--pharmacy home-->
+    <string name="pharmacy_account">pharmacy account</string>
+    <string name="drug_requests">drug requests</string>
+    <string name="inventory">Inventory</string>
+    <string name="add_inventory">Add Inventory</string>
+
+    <!--pharmacy profile-->
+    <string name="pharmacy_prof">Parmacy profile</string>
+
+    <!--inventory view-->
+    <string name="edit_drugs_to_inventory">edit Drugs </string>
+    <string name="pha_my_drug_inv">My Inventory</string>
+    <string name="det_drugs">delete_drugs</string>
+
+    <!--inventory add-->
+    <string name="add_drugs_to_inventory">Add Drugs </string>
+    <string name="pha_my_add_drug_inv">Add Drugs</string>
+
+    <!--customer drug list-->
+    <string name="customer_list">Customer List</string>
+
+
+</resources>
